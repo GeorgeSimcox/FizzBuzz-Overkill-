@@ -1,0 +1,1 @@
+**Main Setting**These are the setting that are able to be change by the userQuickRunStart,0,IntQuickRunEnd,50,IntquickFizz,3,IntquickBuzz,5,IntadvFizz,3,IntadvBuzz,5,Int

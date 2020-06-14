@@ -1,0 +1,28 @@
+*******BACK UP SETTING****** For Debugging
+
+
+**Default Setting**
+These are the Defualt Setting that are a back of the main settings
+
+QuickRunStart,0,Int
+QuickRunEnd,50,Int
+
+quickFizz,3,Int
+quickBuzz,5,Int
+
+advFizz,3,Int
+advBuzz,5,Int
+
+
+**Main Setting**
+These are the setting that are able to be change by the user
+
+QuickRunStart,0,Int
+QuickRunEnd,50,Int
+
+quickFizz,3,Int
+quickBuzz,5,Int
+
+advFizz,3,Int
+advBuzz,5,Int
+
